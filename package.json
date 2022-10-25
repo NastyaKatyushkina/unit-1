@@ -21,7 +21,8 @@
   "author": "Anastasia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NastyaKatyushkina/unit-1/issues"
+    "url": "https://github.com/NastyaKatyushkina/unit-1/issues",
+    "build": "webpack --mode production"
   },
   "homepage": "https://github.com/NastyaKatyushkina/unit-1#readme",
   "dependencies": {
