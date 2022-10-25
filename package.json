@@ -1,7 +1,7 @@
 {
   "name": "unit-1",
   "version": "1.0.0",
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/po09w34w4llwfc9n?svg=true)](https://ci.appveyor.com/project/MozhaevIL/ajs-6-1)",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/k2153y0y8fvcuybx/branch/main?svg=true)](https://ci.appveyor.com/project/NastyaKatyushkina/unit-1/branch/main)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
